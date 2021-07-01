@@ -223,7 +223,6 @@ namespace Pair_Programming
             Console.WriteLine("Enter an adjective.");
             string adjectiveTwo = CheckIfLetter(Console.ReadLine());
 
-
             Console.WriteLine("Enter a past tense verb ending in est.");
             string pastTenseVerbTwo = CheckIfLetter(Console.ReadLine());
 
