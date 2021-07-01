@@ -220,10 +220,10 @@ namespace Pair_Programming
             Console.WriteLine("Enter a past tense verb.");
             string pastTenseVerbOne = CheckIfLetter(Console.ReadLine());
 
-            Console.WriteLine("Enter an adjective.");
+            Console.WriteLine("Enter an adjective ending in est.");
             string adjectiveTwo = CheckIfLetter(Console.ReadLine());
 
-            Console.WriteLine("Enter a past tense verb ending in est.");
+            Console.WriteLine("Enter a past tense verb.");
             string pastTenseVerbTwo = CheckIfLetter(Console.ReadLine());
 
             Console.WriteLine("Enter an adverb.");
